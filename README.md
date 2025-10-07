@@ -21,11 +21,12 @@ Code will be released soon.
 ## Citation
 
 ```bibtex
-@inproceedings{lovelace2024stopthink,
-  title={Stop-Think-AutoRegress: Language Modeling with Latent Diffusion Planning},
-  author={Lovelace, Justin and Belardi, Christian K and Zalouk, Sofian and Polavaram, Adhitya and Kundurthy, Srivatsa R and Weinberger, Kilian Q},
-  booktitle={Conference on Language Modeling (COLM)},
-  year={2024},
-  url={https://openreview.net/forum?id=c05qIG1Z2B}
+@inproceedings{
+lovelace2025stopthinkautoregress,
+title={Stop-Think-AutoRegress: Language Modeling with Latent Diffusion Planning},
+author={Justin Lovelace and Christian K Belardi and Sofian Zalouk and Adhitya Polavaram and Srivatsa R Kundurthy and Kilian Q Weinberger},
+booktitle={Second Conference on Language Modeling},
+year={2025},
+url={https://openreview.net/forum?id=c05qIG1Z2B}
 }
 ```
