@@ -12,7 +12,7 @@ _Conference on Language Modeling (COLM) 2024_
 
 ## Abstract
 
-STAR-LDM integrates latent diffusion planning with autoregressive generation. Unlike conventional autoregressive language models limited to token-by-token decisions, STAR-LDM incorporates a 'thinking' phase that pauses generation to refine a semantic plan through diffusion before continuing. The model enables global planning in continuous space prior to committing to discrete tokens and demonstrates significant performance improvements in language understanding benchmarks.
+The Stop-Think-AutoRegress Language Diffusion Model (STAR-LDM) integrates latent diffusion planning with autoregressive generation. Unlike conventional autoregressive language models limited to token-by-token decisions, STAR-LDM incorporates a ``thinking'' phase that pauses generation to refine a semantic plan through diffusion before continuing. This enables global planning in continuous space prior to committing to discrete tokens. Evaluations show STAR-LDM significantly outperforms similar-sized models on language understanding benchmarks and achieves >70% win rates in LLM-as-judge comparisons for narrative coherence and commonsense reasoning. The architecture also allows straightforward control through lightweight classifiers, enabling fine-grained steering of attributes without model retraining while maintaining better fluency-control trade-offs than specialized approaches.
 
 ## Code Release
 
