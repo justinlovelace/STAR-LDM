@@ -25,10 +25,6 @@ The Stop-Think-AutoRegress Language Diffusion Model (STAR-LDM) integrates latent
 ### Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/<org>/STAR-LDM.git
-cd STAR-LDM
-
 # Install dependencies (inference)
 pip install -r requirements.txt
 
